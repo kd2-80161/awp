@@ -1,2 +1,2 @@
-# awp
-AWP
+# WPT
+WPT
