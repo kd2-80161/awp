@@ -1,0 +1,28 @@
+
+#heading{
+  color: blue;
+}
+input {
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid black;
+  margin-bottom: 10px;
+}
+
+table{
+  height: 50px;
+  width: 100%;
+}
+
+td{
+  padding: 20px;
+}
+
+.box {
+  width: 70px;
+  height: 70px;
+  border: 1px solid green;
+  padding: 10px;
+  align-items: flex-end;
+  float: right;
+}
